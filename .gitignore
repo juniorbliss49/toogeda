@@ -13,3 +13,5 @@ Homestead.yaml
 .floo
 *.flooignore
 /watch
+/php-getting-started
+/storage

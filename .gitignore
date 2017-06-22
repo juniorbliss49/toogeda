@@ -1,0 +1,15 @@
+/node_modules
+/public/storage
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+/public/css/vendor.css
+/public/css/vendor.css.map
+/public/js/vendor.js
+/public/js/vendor.js.map
+/public/fonts/
+.floo
+*.flooignore
+/watch

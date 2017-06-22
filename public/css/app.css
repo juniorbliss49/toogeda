@@ -1,0 +1,75 @@
+.navbar-brand > img{
+  position: relative;
+  max-width: 90px;
+  top: -2px;
+}
+.navbar-avatar{
+  max-width: 35px;
+  margin-right: 10px;
+}
+.section{
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.profile-stats{
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+}
+.copyright{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.font-weight-light{
+  font-weight: 300;
+}
+.card-post > .card-footer{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.card-post > .card-block{
+  margin-bottom: 70px;
+}
+.card-post{
+  min-width: 47.5%;
+}
+.sidebar-item > a{
+  line-height: 16px;
+}
+.sidebar-item.notifications > a{
+  line-height: 12px;
+  display: block;
+  font-size: 12px;
+  margin-bottom: 8px;
+}
+.sidebar-item{
+  margin-bottom: 5px;
+}
+.type-wrap:not(.active),
+.freq-wrap:not(.active),
+.onet-wrap:not(.active){
+  display: none;
+}
+.tag-container{
+
+}
+.ratings > i{
+  font-size: 12px;
+  color: #ffc200;
+  letter-spacing: -3px;
+  line-height: 0;
+}
+.vcontainer{
+  display: table;
+  height: 100%;
+  width: 100%;
+}
+.valign{
+  display: table-cell;
+  vertical-align: middle;
+}
+#chat-box{
+  padding: 10px;
+}
